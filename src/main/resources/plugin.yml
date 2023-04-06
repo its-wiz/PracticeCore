@@ -1,0 +1,6 @@
+name: PracticeCore
+version: '${project.version}'
+main: org.glory.practicecore.PracticeCore
+commands:
+  practicesetspawn:
+    description: Set Spawn.
